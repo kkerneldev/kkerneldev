@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Denis (aka Kosmoii)
+# 👋 Hi, I'm Denis (aka .deadlonely)
 
 **Full Stack Developer** focused on building complete products — from backend systems to clean user interfaces.
 
