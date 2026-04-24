@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Denis (aka .deadlonely)
+# 👋 Hi, I'm Denis (aka .kerneldev)
 
 **Full Stack Developer** focused on building complete products — from backend systems to clean, responsive user interfaces.
 
