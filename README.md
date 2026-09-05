@@ -1,55 +1,37 @@
-# 👋 Hi, I'm Denis (aka .kerneldev)
+# Hi 👋, I'm Denis 
 
-**Full Stack Developer** focused on building complete products — from backend systems to clean, responsive user interfaces.
+### Just a regular teen developer
 
-## 🧩 What I Do
-- Build **end-to-end applications** (frontend + backend)
-- Develop **scalable backends** and REST APIs
-- Create clean and adaptive **UI with HTML/CSS/JS**
-- Focus on **performance, optimization, and architecture**
-- Work with **Linux, Docker, and self-hosted infrastructure**
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=kkerneldev&label=Profile views&color=0e75b6&style=flat" alt="kkerneldev" /> </p>
 
-## 🛠 Tech Stack
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E)
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kkerneldev" alt="kkerneldev" /></a> </p>
 
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+- 🔭 I'm currently working on **on my project**
 
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat&logo=nginx&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+- 🌱 I'm currently learning **Swift **
 
-## 🎯 Current Focus
-- Full-stack applications
-- High-performance backend systems
-- Clean architecture & system design
+- 👯 I'm looking to collaborate on **minecraft lce projects**
 
-## 🚀 Projects
-- **Nexora.dev** — personal development project / platform
+- 🤝 I'm looking for help with **learning the Minecraft: Legacy Console Edition codebase.**
 
-## 🗣 Languages
-- 🇦🇿 **Azerbaijani**
-- 🇹🇷 **Turkish**
-- 🇬🇧 **English**
-- 🇷🇺 **Russian**
-- 🇺🇦 **Ukrainian**
+- 📫 How to reach me **deadlonely.dev@gmail.com**
 
-## 🌐 Social & Profiles
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/hightcode)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white)](https://wa.me/994705565114)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:deadlonely.dev@gmail.com)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/hdeniskha)
-[![Discord](https://img.shields.io/badge/Discord_Server-5865F2?style=flat&logo=discord&logoColor=white)](https://discord.gg/XsZv7qKEFC)
-[![Spotify](https://img.shields.io/badge/Spotify-1DB954?style=flat&logo=spotify&logoColor=white)](https://open.spotify.com/user/31xd5qtxtbvxylcj25qjwo63eddy)
-[![Steam](https://img.shields.io/badge/Steam-000000?style=flat&logo=steam&logoColor=white)](https://steamcommunity.com/id/deadlonelyy/)
-![PlayStation](https://img.shields.io/badge/PlayStation-Kosmos_Yt00-003791?style=flat&logo=playstation&logoColor=white)
+- ⚡ Fun fact **I once started building my own Xbox Live-like service for Minecraft: Legacy Console Edition, then abandoned it halfway through. 💀**
 
----
+- 👨‍💻 All of my projects are available at **[https://kerneldev.qzz.io](https://kerneldev.qzz.io)**
 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://github.com/kkerneldev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="kkerneldev" height="30" width="40" /></a>
+<a href="https://instagram.com/hdeniskha " target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hdeniskha " height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/cplusplus" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=cpp" alt="cplusplus" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/css3" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=css" alt="css3" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/express" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=express" alt="express" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/git" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=git" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/html5" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=html" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/java" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=java" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/javascript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=js" alt="javascript" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/kotlin" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=kotlin" alt="kotlin" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/linux" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=linux" alt="linux" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/nginx" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=nginx" alt="nginx" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/nodejs" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=nodejs" alt="nodejs" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/python" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=py" alt="python" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/react" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=react" alt="react" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/swift" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=swift" alt="swift" width="40" height="40"/> </a></p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kkerneldev&show_icons=true&locale=en&layout=compact" alt="kkerneldev" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kkerneldev&show_icons=true&locale=en" alt="kkerneldev" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kkerneldev&" alt="kkerneldev" /></p>
 
