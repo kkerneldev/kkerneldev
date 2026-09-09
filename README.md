@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kkerneldev" alt="kkerneldev" /></a> </p>
 
-- 🔭 I'm currently working on **on my project**
+- 🔭 I'm currently working on **A replacement for Xbox Live for the LCE version of Minecraft**
 
 - 🌱 I'm currently learning **Swift **
 
@@ -16,9 +16,9 @@
 
 - 📫 How to reach me **deadlonely.dev@gmail.com**
 
-- ⚡ Fun fact **I once started building my own Xbox Live-like service for Minecraft: Legacy Console Edition, then abandoned it halfway through. 💀**
+- ⚡ Fun fact **i like apple**
 
-- 👨‍💻 All of my projects are available at **[https://kerneldev.qzz.io](https://kerneldev.qzz.io)**
+- 👨‍💻 All of my projects are available at **[https://kerneldev.qzz.io](https://kerneldev.qzz.io)** (webpage is down)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
