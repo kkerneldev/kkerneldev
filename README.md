@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kkerneldev" alt="kkerneldev" /></a> </p>
 
-- 🔭 I'm currently working on **A replacement for Xbox Live for the LCE version of Minecraft**
+- 🔭 I'm currently working on **Restoration of Xbox Live for LCE**
 
 - 🌱 I'm currently learning **Swift **
 
